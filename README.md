@@ -1,4 +1,7 @@
 # Cheval
+
+![Alt text](preview.png)
+
 Cheval is a Windows application which analyzes chess games and provides derived data based on its analysis. Import a PGN file from any source with File > Import & Analyze PGN File. Note that game analysis can be a lengthy process, especially with a high Search Depth setting (in Tools > Engine Settings) and/or a lengthy chess game. 
 
 Cheval relies on the Stockfish engine (version 17 or later) to operate. The full version of Cheval, including Stockfish 18, can be downloaded at https://cheval-chess.neocities.org/; the Stockfish engine itself can be downloaded at https://stockfishchess.org/download/. Specify the location of your Stockfish engine executable in Tools > Engine Settings.
